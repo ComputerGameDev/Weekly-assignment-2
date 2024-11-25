@@ -1,5 +1,12 @@
-# Second-assignment
-##Scripts part - [Click here](https://tomgoz.itch.io/weekly-assignment-2)
-##mini-map game - [Click here](https://tomgoz.itch.io/minimap)
-##split-screen game - [Click here](https://tomgoz.itch.io/splitscreen)
+# Second Assignment
+
+## Scripts Part
+[Click here](https://tomgoz.itch.io/weekly-assignment-2)
+
+## Mini-Map Game
+[Click here](https://tomgoz.itch.io/minimap)
+
+## Split-Screen Game
+[Click here](https://tomgoz.itch.io/splitscreen)
+
 ---
